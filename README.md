@@ -2,7 +2,7 @@
 
 **DOCTYPE** | **Discription**
 ---: | :---
-file | README.md
-brief | Short description of the project
+*file* | README.md
+*brief* | Short description of the project
 
 #  THE PROJECT ISN'T FINISHED YET!!!!
