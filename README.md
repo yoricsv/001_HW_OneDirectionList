@@ -1,5 +1,4 @@
 # <p align = center><b>001_HW_OneDirectionList<b></p>
----
  
 repo URL:
 ```
